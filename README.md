@@ -8,10 +8,4 @@ This project leverages CrewAI to automate the creation of engaging LinkedIn post
 - LinkedIn post generation with formatting, emojis, and hashtags
 - Multi-agent collaboration (Researcher, Video Finder, Writer)
 - Powered by CrewAI, LangChain, and Groq
-  <p align="center"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Groq-LLaMA3-blueviolet?style=for-the-badge&logo=groq&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black" /> 
-    <img src="https://img.shields.io/badge/Tavily-3F3F3F?style=for-the-badge&logo=google&logoColor=white" /> </p>
+  <p align="center"> <!-- Python --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <!-- Hugging Face --> <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/> <!-- LangChain --> <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/> <!-- CrewAI Logo (Local or Hosted) --> <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/path-to-your-logo.png" alt="CrewAI" height="40"/> <!-- Groq / LLaMA --> <img src="https://img.shields.io/badge/Groq-LLaMA3-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Groq LLaMA 3"/> <!-- Tavily --> <img src="https://img.shields.io/badge/Tavily-333333?style=for-the-badge&logo=google&logoColor=white" alt="Tavily"/> </p>
