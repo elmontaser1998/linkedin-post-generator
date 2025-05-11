@@ -14,7 +14,7 @@ This project leverages CrewAI to automate the creation of engaging LinkedIn post
   
   <p align="center"> 
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/CrewAI--4C1C1C?style=for-the-badge&logo=crewAI;base64,&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/CrewAI-4C1C1C?style=for-the-badge&logo=crewAI;base64,&logoColor=white" /> 
    <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=LangChain&logoColor=white" /> 
    <img src="https://img.shields.io/badge/Groq-blueviolet?style=for-the-badge&logo=groq&logoColor=white" /> 
    <img src="https://img.shields.io/badge/HuggingFace-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black" /> 
